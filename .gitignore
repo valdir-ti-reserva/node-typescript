@@ -15,12 +15,6 @@ pids
 *.seed
 *.pid.lock
 
-# nyc test coverage
-.nyc_output
-
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
-
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -33,6 +27,9 @@ typings/
 
 # Optional npm cache directory
 .npm
+
+# Optional yarn-lock file
+yarn-lock
 
 # Optional eslint cache
 .eslintcache
