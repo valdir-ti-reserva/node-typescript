@@ -29,7 +29,7 @@ typings/
 .npm
 
 # Optional yarn-lock file
-yarn-lock
+yarn.lock
 
 # Optional eslint cache
 .eslintcache
