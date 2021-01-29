@@ -1,0 +1,9 @@
+{
+  "name": "node-typescript",
+  "version": "1.0.0",
+  "description": "NodeJS com TypeScript",
+  "main": "index.js",
+  "repository": "https://github.com/valdir-ti/node-typescript",
+  "author": "valdir-ti <valdir.ti@gmail.com>",
+  "license": "MIT"
+}
